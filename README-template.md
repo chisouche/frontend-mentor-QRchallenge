@@ -5,99 +5,72 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
+This repository presents my solution to the Frontend Mentor QR code component challenge. Frontend Mentor challenges provide a platform for honing front-end development skills by tackling real-world projects. The challenge involved creating a responsive QR code component using HTML and CSS.
 
-### Screenshot
+In this project, I focused on mobile-first design principles to ensure a seamless user experience across a range of devices, from mobile phones to larger desktop screens. The solution employs semantic HTML markup, CSS custom properties (variables), and layout techniques like Flexbox and CSS Grid to achieve a responsive and visually appealing design.
 
-![](./screenshot.jpg)
+I conducted thorough cross-browser compatibility testing to verify that the component functions consistently and looks as intended across various web browsers.
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+Through this challenge, I deepened my understanding of responsive web design, strengthened my HTML and CSS skills, and honed my problem-solving abilities. This project serves as a testament to my commitment to continuous learning and improvement in the field of front-end development. Feel free to explore the code and provide feedback or suggestions for further enhancements.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+##My Process
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+In building my solution for the QR code component challenge, I followed these steps:
 
-### Links
+1. **HTML and CSS Implementation:** I created a responsive QR code component using HTML and CSS. The component includes a QR code image and accompanying text content.
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+2. **Responsive Design:** I adhered to mobile-first design principles to ensure that the component looks and functions well on various screen sizes, from mobile devices to larger desktop screens.
 
-## My process
+3. **Cross-Browser Compatibility:** I thoroughly tested the component in different web browsers to ensure it works consistently and appears as intended across various platforms.
 
-### Built with
+##Built With
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Semantic HTML5 markup: I structured the content using semantic HTML elements to ensure accessibility and clarity in the code.
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- CSS custom properties: Custom properties (CSS variables) were used to maintain consistency and make it easier to update styles.
+
+- Flexbox and CSS Grid: These layout techniques were employed to create a responsive design that adapts to different screen sizes.
+
+- Mobile-first workflow: The project was developed with a mobile-first approach to provide a seamless user experience on smaller devices.
+
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+While working on this Frontend Mentor challenge, I gained several valuable insights and skills:
 
-To see how you can add code snippets, see below:
+1. **Responsive Design:** I enhanced my ability to create responsive web components that adapt to various screen sizes. This project allowed me to practice a mobile-first workflow and ensure a consistent user experience across devices.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+2. **Semantic HTML:** I further reinforced my knowledge of using semantic HTML markup to improve the structure and accessibility of web content.
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+3. **CSS Custom Properties:** I utilized CSS custom properties (variables) to maintain a consistent design and facilitate easier style adjustments.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+4. **Flexbox and CSS Grid:** I developed proficiency in using both Flexbox and CSS Grid for layout, allowing for flexible and dynamic design options.
 
-### Continued development
+5. **Cross-Browser Testing:** I learned the importance of cross-browser compatibility testing to ensure a consistent appearance and functionality across different web browsers.
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+6. **Problem-Solving:** The challenges on Frontend Mentor provide practical problem-solving opportunities. I improved my problem-solving skills and learned to think critically when facing coding challenges.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+By completing this challenge, I've not only enhanced my technical skills but also gained practical experience that will be valuable in future web development projects.
+
+
 
 ### Useful resources
+- [resource 1](https://sowebsited.com/basics/normalcard.html) - This helped me for flex box and cards reason. 
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
-## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@chisouche](https://www.frontendmentor.io/profile/chisouche)
+- Twitter - [@spacerjace](https://twitter.com/spacerjace)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
