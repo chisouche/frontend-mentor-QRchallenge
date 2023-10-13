@@ -1,0 +1,67 @@
+body{
+    background-color: #D6E1F0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.container{
+   text-align: center;
+  
+
+}
+
+.qr_code_box{
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 20px;
+    width: 100%;
+    max-width: 355px;
+    height: auto;
+   
+}
+
+.qrcode{
+    margin: 5px;
+    flex: 1;
+    object-fit: cover;
+}
+
+
+.qrcode img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Maintain aspect ratio */
+}
+
+.card-content {
+    margin: 10px; /* Adjust the margin as needed */
+    text-align: center;
+}
+
+h3{
+color: rgb(47, 46, 46);
+}
+p{
+    opacity: .4;
+}
+
+/* Media query for screens with a maximum width of 768px (typical for mobile devices) */
+@media (max-width: 768px) {
+    .qr_code_box {
+        max-width: 90%; /* Adjust the maximum width for smaller screens */
+    }
+}
+
+
+
+
+
+
+* {
+    box-sizing: border-box;
+  }
+
