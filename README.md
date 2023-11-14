@@ -1,87 +1,85 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - QR code component solution
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Welcome! 👋
+## Table of contents
 
-Thanks for checking out this front-end coding challenge.
+- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+    - [What I learned](#what-i-learned)
+    - [Useful resources](#useful-resources)
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
 
-## The challenge
+## Overview
+This repository presents my solution to the Frontend Mentor QR code component challenge. Frontend Mentor challenges provide a platform for honing front-end development skills by tackling real-world projects. The challenge involved creating a responsive QR code component using HTML and CSS.
 
-Your challenge is to build out this QR code component and get it looking as close to the design as possible.
+In this project, I focused on mobile-first design principles to ensure a seamless user experience across a range of devices, from mobile phones to larger desktop screens. The solution employs semantic HTML markup, CSS custom properties (variables), and layout techniques like Flexbox and CSS Grid to achieve a responsive and visually appealing design.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+I conducted thorough cross-browser compatibility testing to verify that the component functions consistently and looks as intended across various web browsers.
 
-Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
+Through this challenge, I deepened my understanding of responsive web design, strengthened my HTML and CSS skills, and honed my problem-solving abilities. This project serves as a testament to my commitment to continuous learning and improvement in the field of front-end development. Feel free to explore the code and provide feedback or suggestions for further enhancements.
 
-## Where to find everything
+### Screenshot
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+![](./images/Screenshot%202023-11-14%20213313.png)
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+### Links
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+- Solution URL: [Add solution URL here](https://github.com/chisouche/frontend-mentor-QRchallenge)
+- Live Site URL: [Add live site URL here](https://result-summary-challenge-two.vercel.app/)
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+##My Process
 
-## Building your project
+In building my solution for the QR code component challenge, I followed these steps:
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+1. **HTML and CSS Implementation:** I created a responsive QR code component using HTML and CSS. The component includes a QR code image and accompanying text content.
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+2. **Responsive Design:** I adhered to mobile-first design principles to ensure that the component looks and functions well on various screen sizes, from mobile devices to larger desktop screens.
 
-## Deploying your project
+3. **Cross-Browser Compatibility:** I thoroughly tested the component in different web browsers to ensure it works consistently and appears as intended across various platforms.
 
-As mentioned above, there are many ways to host your project for free. Our recommended hosts are:
+##Built With
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+- Semantic HTML5 markup: I structured the content using semantic HTML elements to ensure accessibility and clarity in the code.
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+- CSS custom properties: Custom properties (CSS variables) were used to maintain consistency and make it easier to update styles.
 
-## Create a custom `README.md`
+- Flexbox and CSS Grid: These layout techniques were employed to create a responsive design that adapts to different screen sizes.
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+- Mobile-first workflow: The project was developed with a mobile-first approach to provide a seamless user experience on smaller devices.
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+### What I learned
 
-## Submitting your solution
+While working on this Frontend Mentor challenge, I gained several valuable insights and skills:
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
+1. **Responsive Design:** I enhanced my ability to create responsive web components that adapt to various screen sizes. This project allowed me to practice a mobile-first workflow and ensure a consistent user experience across devices.
 
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
+2. **Semantic HTML:** I further reinforced my knowledge of using semantic HTML markup to improve the structure and accessibility of web content.
 
-## Sharing your solution
+3. **CSS Custom Properties:** I utilized CSS custom properties (variables) to maintain a consistent design and facilitate easier style adjustments.
 
-There are multiple places you can share your solution:
+4. **Flexbox and CSS Grid:** I developed proficiency in using both Flexbox and CSS Grid for layout, allowing for flexible and dynamic design options.
 
-1. Share your solution page in the **#finished-projects** channel of the [community](https://www.frontendmentor.io/community). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
+5. **Cross-Browser Testing:** I learned the importance of cross-browser compatibility testing to ensure a consistent appearance and functionality across different web browsers.
 
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
+6. **Problem-Solving:** The challenges on Frontend Mentor provide practical problem-solving opportunities. I improved my problem-solving skills and learned to think critically when facing coding challenges.
 
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
+By completing this challenge, I've not only enhanced my technical skills but also gained practical experience that will be valuable in future web development projects.
 
-## Got feedback for us?
 
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
+### Useful resources
+- [resource 1](https://sowebsited.com/basics/normalcard.html) - This helped me for flex box and cards reason. 
 
-**Have fun building!** 🚀
+
+
+
+- Frontend Mentor - [@chisouche](https://www.frontendmentor.io/profile/chisouche)
+- Twitter - [@spacerjace](https://twitter.com/spacerjace)
+
