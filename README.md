@@ -29,8 +29,8 @@ Through this challenge, I deepened my understanding of responsive web design, st
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/chisouche/frontend-mentor-QRchallenge)
-- Live Site URL: [Add live site URL here](https://result-summary-challenge-two.vercel.app/)
+- Solution URL: (https://github.com/chisouche/frontend-mentor-QRchallenge)
+- Live Site URL: (frontend-mentor-q-rchallenge.vercel.app)
 
 
 ##My Process
